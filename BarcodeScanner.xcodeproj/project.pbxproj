@@ -59,11 +59,11 @@
 		334EB6722A23B93300A2DF1D /* BarcodeScanner */ = {
 			isa = PBXGroup;
 			children = (
+				334EB6732A23B93300A2DF1D /* BarcodeScannerApp.swift */,
+				334EB6772A23B93500A2DF1D /* Assets.xcassets */,
 				334EB68D2A241DF800A2DF1D /* Utilities */,
 				334EB68B2A241DC100A2DF1D /* Views */,
 				334EB6892A241DA200A2DF1D /* Screen */,
-				334EB6732A23B93300A2DF1D /* BarcodeScannerApp.swift */,
-				334EB6772A23B93500A2DF1D /* Assets.xcassets */,
 				334EB6792A23B93500A2DF1D /* Preview Content */,
 			);
 			path = BarcodeScanner;
@@ -332,6 +332,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -362,6 +363,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
